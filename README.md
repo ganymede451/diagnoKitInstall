@@ -1,0 +1,2 @@
+# diagnoKitInstall
+installation for DiagnoKit
